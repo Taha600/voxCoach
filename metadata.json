@@ -1,0 +1,7 @@
+{
+  "name": "VoxCoach",
+  "description": "AI-powered speech therapist for real-time communication coaching, session history tracking, and meeting simulation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
